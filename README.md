@@ -1,6 +1,13 @@
-### Hi there 👋
+### Hello, I'm Chloe! Welcome to my Github page 👋
+
+This Github page is a journey for my Data Engineering career. It includes the projects that I create as part of a team and indenpently.
+
+Let's connect! [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/chloeycl/)](https://www.linkedin.com/in/chloeycl/)
+
+
 
 <!--
+Below is the technology that I've been using on my project
 **ChloeL6/ChloeL6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
