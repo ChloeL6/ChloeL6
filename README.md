@@ -1,4 +1,4 @@
-### Hello, I'm Chloe! Welcome to my Github page 👋
+### Hello, I'm Chloe! Welcome to my Github 👋
 
 This Github page is a journey for my Data Engineering career. It includes the projects that I create as part of a team and indenpently.
 
