@@ -1,14 +1,14 @@
 ### Hello, I'm Chloe! Welcome to my Github 👋
 
-<!-- This Github page is a journey for my Data Engineering career. It includes the projects that I create as part of a team and indenpently. -->
-Feel free to checkout [Portfolio](https://chloel6.github.io/Github_page/) to see all of my favorite projects
+The page is a journey for my Data Engineering career. It includes the projects that I create as part of a team and indenpently. <br>
+Also, feel free to checkout the portfolio for all of my favorite projects :point_down:
+
+<a href="https://chloel6.github.io/Github_page/" target="_blank"><img alt="portfolio_link" src="https://user-images.githubusercontent.com/115473045/221614703-aba7636a-c897-47e7-ad51-c8eaa46cc2cf.png"></a>
 
 Let's connect! [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/chloeycl/)](https://www.linkedin.com/in/chloeycl/)
 
 
-
 <!--
-Below is the technology that I've been using on my project
 **ChloeL6/ChloeL6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
