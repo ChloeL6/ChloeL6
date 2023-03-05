@@ -7,18 +7,33 @@ Also, feel free to checkout the portfolio for all of my favorite projects :point
 
 Let's connect! [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/chloeycl/)](https://www.linkedin.com/in/chloeycl/)
 
+## &#x1f4c8; Github Stats
 
-<!--
-**ChloeL6/ChloeL6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/ChloeL6/ChloeL6">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChloeL6&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
 
-Here are some ideas to get you started:
+<a href="https://github.com/ChloeL6/ChloeL6">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChloeL6&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Chloe's GitHub Stats" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :star2: The most fun projects
+
+<a href="https://github.com/ChloeL6/Tweet-Sentiment-vs-Stock-Prices">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChloeL6&repo=Tweet-Sentiment-vs-Stock-Prices&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/ChloeL6/Stock-vs-Inflation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChloeL6&repo=Stock-vs-Inflation&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/ChloeL6/Vote">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChloeL6&repo=Vote&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/ChloeL6/Music-and-Mental-Health">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChloeL6&repo=Music-and-Mental-Health&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
