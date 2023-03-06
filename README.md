@@ -1,6 +1,6 @@
-### Hello, I'm Chloe! Welcome to my Github 👋
+### Hello, I'm Chloe! Welcome to my GitHub 👋
 
-The page is a journey for my Data Engineering career. It includes the projects that I create as part of a team and indenpently. <br>
+The page is a journey for my Data Engineering career. It includes the projects that I create as part of a team and indendpently. <br>
 Also, feel free to checkout the portfolio for all of my favorite projects :point_down:
 
 <a href="https://chloel6.github.io/Github_page/" target="_blank"><img alt="portfolio_link" src="https://user-images.githubusercontent.com/115473045/221614703-aba7636a-c897-47e7-ad51-c8eaa46cc2cf.png"></a>
